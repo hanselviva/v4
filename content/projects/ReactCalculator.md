@@ -1,6 +1,6 @@
 ---
 date: '2021-05-25'
-title: 'Simple React Calculator Using Actions & Reducers'
+title: 'React Calculator Using Actions & Reducers'
 github: 'https://github.com/hanselviva/react-calculator'
 external: 'https://reducer-calculator.netlify.app/'
 tech:

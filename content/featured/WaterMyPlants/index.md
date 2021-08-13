@@ -1,14 +1,14 @@
 ---
-date: '2021-07-08'
-title: 'Water My Plants'
+date: '3'
+title: 'Water My Plants App'
+cover: './wmp.png'
 github: 'https://github.com/Build-Week-Water-My-Plants-157'
 external: 'https://water-my-plants-webpt-157.netlify.app/'
 tech:
-  - React |
-  - Redux |
-  - Material-UI |
-  - Yup Validation |
-company: 'Lambda School'
+  - React.js
+  - Redux
+  - Axios
+  - Yup validator
 showInProjects: false
 ---
 
