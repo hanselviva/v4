@@ -2,7 +2,7 @@
 date: '2021-05-29'
 title: 'Jokes Generator'
 github: 'https://github.com/hanselviva/react-async-redux'
-external: 'https://toolkit.michelleforboston.com/'
+external: 'https://async-redux-chuck-norris-jokes.netlify.app/'
 tech:
   - React |
   - Redux-thunk |

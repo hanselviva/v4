@@ -1,7 +1,7 @@
 ---
 date: '2021-05-29'
-title: 'RENT-A-GAME | A Frontend Ecommerce Site Using Redux'
-github: 'https://github.com/hanselviva/react-async-redux'
+title: 'RENT-A-GAME'
+github: 'https://github.com/hanselviva/store-app'
 external: 'https://store-app-mu.vercel.app/'
 tech:
   - React |
@@ -11,4 +11,4 @@ company: 'Personal'
 showInProjects: true
 ---
 
-A fully functional rental store built on React with Redux state management. This app has also client authentication using Axios. The database API is pulled from FreeToGame.com which I tweaked to cater the needs of the app.
+A fully functional frontend rental store built on React with Redux state management. Also implements basic API calls. The database is pulled from FreeToGame.com which I tweaked to cater the needs of the app.
