@@ -90,7 +90,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/bchiang7/v4">
+        <a href="https://github.com/hanselviva/v4/tree/hanselv">
           <div>Hansel's Gatsby Portfolio | Adapted from Brittany Chiang</div>
         </a>
       </StyledCredit>
