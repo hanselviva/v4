@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'hanselviva@gmail.com',
 
   socialMedia: [
     {
@@ -7,20 +7,12 @@ module.exports = {
       url: 'https://github.com/hanselviva',
     },
     {
-      name: 'Instagram',
-      url: '',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/Hanselasdfghjkl',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/hanselvalentine/',
     },
     {
-      name: 'Codepen',
-      url: '',
+      name: 'Twitter',
+      url: 'https://twitter.com/Hanselasdfghjkl',
     },
   ],
 

@@ -9,7 +9,7 @@ tech:
   - Material-UI |
   - Axios |
   - Yup Validation |
-company: 'LambdaSchool Group'
+company: 'Lambda School'
 showInProjects: true
 ---
 
