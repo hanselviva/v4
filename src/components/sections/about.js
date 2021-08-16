@@ -95,7 +95,8 @@ const StyledPic = styled.div`
       position: absolute;
       width: 100%;
       height: 100%;
-      border-radius: var(--border-radius);
+      /* border-radius: var(--border-radius); */
+      border-radius: 50%;
       transition: var(--transition);
     }
 
