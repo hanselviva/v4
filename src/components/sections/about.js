@@ -130,11 +130,11 @@ const About = () => {
 
   const skills = [
     'JavaScript (ES6+)',
-    'Node.js',
+    'Node.js & Express',
     'React.js',
-    'Express',
+    'SQL & RDBMS',
     'Redux',
-    'RDBMS with SQL',
+    'Knex',
     'ContextAPI',
     'PostgreSQL',
   ];
