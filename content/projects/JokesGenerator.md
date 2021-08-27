@@ -4,8 +4,8 @@ title: 'Jokes Generator'
 github: 'https://github.com/hanselviva/react-async-redux'
 external: 'https://async-redux-chuck-norris-jokes.netlify.app/'
 tech:
-  - React |
-  - Redux-thunk |
+  - React
+  - Redux-thunk
 company: 'Personal'
 showInProjects: true
 ---

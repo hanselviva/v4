@@ -4,9 +4,9 @@ title: 'RENT-A-GAME'
 github: 'https://github.com/hanselviva/store-app'
 external: 'https://store-app-mu.vercel.app/'
 tech:
-  - React |
-  - Redux |
-  - Material-UI |
+  - React
+  - Redux
+  - Material-UI
 company: 'Personal'
 showInProjects: false
 ---

@@ -4,10 +4,10 @@ title: 'Water My Plants'
 github: 'https://github.com/Build-Week-Water-My-Plants-157'
 external: 'https://water-my-plants-webpt-157.netlify.app/'
 tech:
-  - React |
-  - Redux |
-  - Material-UI |
-  - Yup Validation |
+  - React
+  - Redux
+  - Material-UI
+  - Yup Validation
 company: 'Lambda School'
 showInProjects: false
 ---

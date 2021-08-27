@@ -4,8 +4,8 @@ title: 'Old Portfolio Using React'
 github: 'https://github.com/hanselviva/portfolio2.0'
 external: 'https://portfolio-bay-three.vercel.app/'
 tech:
-  - React |
-  - Various React Libraries |
+  - React
+  - Various React Libraries
 company: 'Personal'
 showInProjects: true
 ---

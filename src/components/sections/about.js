@@ -134,9 +134,9 @@ const About = () => {
     'React.js',
     'Express',
     'Redux',
-    'SQL',
-    'Context',
-    'SQLite3',
+    'RDBMS with SQL',
+    'ContextAPI',
+    'PostgreSQL',
   ];
 
   return (

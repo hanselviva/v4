@@ -4,8 +4,8 @@ title: 'React Calculator Using Actions & Reducers'
 github: 'https://github.com/hanselviva/react-calculator'
 external: 'https://reducer-calculator.netlify.app/'
 tech:
-  - React |
-  - Redux-thunk |
+  - React
+  - Redux-thunk
 company: 'Personal'
 showInProjects: true
 ---

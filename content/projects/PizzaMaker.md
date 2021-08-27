@@ -4,9 +4,9 @@ title: 'Make-Your-Own Pizza Form'
 github: 'https://github.com/hanselviva/pizza-form'
 external: 'https://gallant-hopper-0e9073.netlify.app/'
 tech:
-  - React |
-  - Cypress Testing |
-  - Yup Validation |
+  - React
+  - Cypress Testing
+  - Yup Validation
 company: 'Personal'
 showInProjects: true
 ---
