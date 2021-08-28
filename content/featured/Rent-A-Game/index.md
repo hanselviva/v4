@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'RENT-A-GAME'
 cover: './rentagame.png'
 github: 'https://github.com/hanselviva/store-app'

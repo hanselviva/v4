@@ -1,9 +1,9 @@
 ---
-date: '1'
+date: '3'
 title: 'Potluck Planner API'
 cover: './potluckplanner2.png'
 github: 'https://github.com/ptpt-potluckplanner-4/backend'
-external: 'potluck-planner-04.herokuapp.com'
+external: 'https://potluck-planner-04.herokuapp.com'
 tech:
   - Node.js
   - Express

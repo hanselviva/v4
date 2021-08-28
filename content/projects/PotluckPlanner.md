@@ -9,7 +9,7 @@ tech:
   - Knex
   - PostgreSQL
 company: 'Lambda School'
-showInProjects: false
+showInProjects: true
 ---
 
 This is a WebDev Lambda School Project. I am responsible for building the backend - a five-table relational database built using Node, Express, SQLite3 for development and PostgreSQL for production.

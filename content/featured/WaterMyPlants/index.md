@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'Water My Plants App'
 cover: './wmp.png'
 github: 'https://github.com/Build-Week-Water-My-Plants-157'
