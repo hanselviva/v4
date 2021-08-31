@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-A five-table relational database built using Node, Express, SQLite3 for development and PostgreSQL for production. The database is consumed by the frontend students from Lambda School for a Potluck Planner web app.
+A five-table relational database I solely built using Node, Express, SQLite3 for development and PostgreSQL for production. The database is consumed by the frontend students from Lambda School for a Potluck Planner web app.

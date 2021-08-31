@@ -9,7 +9,7 @@ tech:
   - Material-UI
   - Yup Validation
 company: 'Lambda School'
-showInProjects: false
+showInProjects: true
 ---
 
 Built alongside a team of Lambda School Web Dev students, 'Water My Plants' reminds users to water their plants. I was responsible for implementing form validations and user interface. The app is complete from frontend to backend functionalities.

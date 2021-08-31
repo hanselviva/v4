@@ -11,4 +11,4 @@ company: 'Personal'
 showInProjects: true
 ---
 
-My first ever deployment, complete Form Management from validation to routing, post requests, and Cypress testing. Basic styling is added only for comprehensibility.
+My first ever solo project, complete Form Management from validation to routing, post requests, and Cypress testing. Basic styling is added only for comprehensibility.
