@@ -174,7 +174,11 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+    <a
+      className="resume-button"
+      href="https://docs.google.com/document/d/19aYr1edrYxpDjMviiRpdEzY8fr5sy-e-YQ7FvFJVPJ0"
+      target="_blank"
+      rel="noopener noreferrer">
       Resume
     </a>
   );
