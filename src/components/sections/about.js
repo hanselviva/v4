@@ -49,6 +49,7 @@ const StyledText = styled.div`
 const StyledPic = styled.div`
   position: relative;
   max-width: 300px;
+  border-radius: 50%;
 
   @media (max-width: 768px) {
     margin: 50px auto 0;
@@ -60,7 +61,7 @@ const StyledPic = styled.div`
     display: block;
     position: relative;
     width: 100%;
-    border-radius: var(--border-radius);
+    border-radius: 50%;
     background-color: var(--green);
 
     &:hover,
@@ -81,7 +82,7 @@ const StyledPic = styled.div`
 
     .img {
       position: relative;
-      border-radius: var(--border-radius);
+      border-radius: 50%;
       mix-blend-mode: multiply;
       filter: grayscale(100%) contrast(1);
       transition: var(--transition);
@@ -94,7 +95,8 @@ const StyledPic = styled.div`
       position: absolute;
       width: 100%;
       height: 100%;
-      border-radius: var(--border-radius);
+      /* border-radius: var(--border-radius); */
+      border-radius: 50%;
       transition: var(--transition);
     }
 
@@ -126,7 +128,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Eleventy', 'Vue', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'Node.js & Express',
+    'React.js',
+    'SQL & RDBMS',
+    'Redux',
+    'Knex',
+    'ContextAPI',
+    'PostgreSQL',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,24 +147,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello, there! My name is Hansel. I grew up in a small island Southeast of the
+              Philippines. I have always been fascinated by computer and technology since I was a
+              kid but growing up in a small, technology-starved town, I didn't get the chance to
+              explore this wonderful world of 1s and 0s until I moved here in the US.
             </p>
 
             <p>
-              Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I started Lambda School's Web Dev curriculum in January 2021 and since then, I have
+              never felt more passionate about anything. I thrive on the required critical-thinking
+              and problem-solving skills in this field. I love learning and I hope to find a place
+              where people value passion to learn and grow as a web developer and as a person.
             </p>
 
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>Here some of the technologies I've learned:</p>
           </div>
 
           <ul className="skills-list">
