@@ -63,11 +63,14 @@ const Hero = () => {
   const three = <h3 className="big-heading">Full Stack Web Developer.</h3>;
   const four = (
     <p>
-      I'm a recent graduate of{' '}
-      <a href="https://lambdaschool.com/" target="_blank" rel="noreferrer">
-        Lambda School
+      I'm a graduate of{' '}
+      <a
+        href="https://www.bloomtech.com/courses/full-stack-web-development"
+        target="_blank"
+        rel="noreferrer">
+        Bloom Institute of Technology
       </a>
-      's extensive Full Stack Web Development Program.
+      's (formerly Lambda School) extensive Full Stack Web Development Program.
     </p>
   );
   const five = (

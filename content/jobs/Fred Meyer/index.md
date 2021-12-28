@@ -1,20 +1,17 @@
 ---
 date: '2020-03-04'
-title: 'Associate'
+title: 'Retail Associate'
 company: 'Fred Meyer (Kroger)'
 location: 'Sandy, OR'
-range: 'May 2020 - Present'
+range: 'May 2020 - Nov 2021'
 url: ''
 ---
 
-ELECTRONICS DEPARTMENT ASSOCIATE
+Home, Electronics, and Garden Center Department
+<br>
+<br>
 
-- Provide detailed information about products to customers
-- Answer customer calls; perform cashier functions
-- Perform inventory control functions
-
-GARDEN CENTER ASSOCIATE
-
-- Maintain the Garden Center hardlines and live plants merchandise
-- Perform housekeeping functions
-- Provide information and sell plant products to customers
+- Maintained home, garden, and electronics merchandise displays
+- Provided customer service, performed cashier functions, and sales and inventory monitoring operations
+- Maintain awareness of overstock/understock conditions to maintain ordering system integrity
+- Rated “can go above and beyond” in the annual performance review
