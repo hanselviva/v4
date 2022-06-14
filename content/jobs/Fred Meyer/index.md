@@ -12,6 +12,7 @@ Home, Electronics, and Garden Center Department
 <br>
 
 - Maintained home, garden, and electronics merchandise displays
+- Provide detailed information about products to customers, recommend appropriate products based on their needs.
 - Provided customer service, performed cashier functions, and sales and inventory monitoring operations
 - Maintain awareness of overstock/understock conditions to maintain ordering system integrity
 - Rated “can go above and beyond” in the annual performance review
