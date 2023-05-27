@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
-import { email } from '@config';
 import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
 
@@ -10,10 +9,12 @@ const StyledHeroSection = styled.section`
   flex-direction: column;
   align-items: flex-start;
   min-height: 100vh;
+  height: 100vh;
   padding: 0;
 
-  @media (max-width: 480px) and (min-height: 700px) {
-    padding-bottom: 10vh;
+  @media (max-height: 700px) and (min-width: 700px), (max-width: 360px) {
+    height: auto;
+    padding-top: var(--nav-height);
   }
 
   h1 {
@@ -29,7 +30,7 @@ const StyledHeroSection = styled.section`
   }
 
   h3 {
-    margin-top: 10px;
+    margin-top: 5px;
     color: var(--slate);
     line-height: 0.9;
   }
@@ -74,8 +75,12 @@ const Hero = () => {
     </p>
   );
   const five = (
-    <a href={`mailto:${email}`} className="email-link">
-      Get In Touch
+    <a
+      className="email-link"
+      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      target="_blank"
+      rel="noreferrer">
+      Check out my course!
     </a>
   );
 
