@@ -66,12 +66,11 @@ const StyledPic = styled.div`
 
     &:hover,
     &:focus {
-      background: transparent;
       outline: 0;
+      transform: translate(-4px, -4px);
 
       &:after {
-        top: 15px;
-        left: 15px;
+        transform: translate(8px, 8px);
       }
 
       .img {
@@ -109,8 +108,8 @@ const StyledPic = styled.div`
 
     &:after {
       border: 2px solid var(--green);
-      top: 20px;
-      left: 20px;
+      top: 14px;
+      left: 14px;
       z-index: -1;
     }
   }
@@ -128,16 +127,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = [
-    'JavaScript (ES6+)',
-    'Node.js & Express',
-    'React.js',
-    'SQL & RDBMS',
-    'Redux',
-    'Knex',
-    'ContextAPI',
-    'PostgreSQL',
-  ];
+  const skills = ['JavaScript (ES6+)', 'React', 'Eleventy', 'Vue', 'Node.js', 'WordPress'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -154,13 +144,17 @@ const About = () => {
             </p>
 
             <p>
-              I started Lambda School's Web Dev curriculum in January 2021 and since then, I have
-              never felt more passionate about anything. I thrive on the required critical-thinking
-              and problem-solving skills in this field. I love learning and I hope to find a place
-              where people value passion to learn and grow as a web developer and as a person.
+              Fast-forward to today, and I've had the privilege of working at{' '}
+              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
+              <a href="https://starry.com/">a start-up</a>,{' '}
+              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
+              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
+              main focus these days is building accessible, inclusive products and digital
+              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
+              clients.
             </p>
 
-            <p>Here some of the technologies I've learned:</p>
+            <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
           <ul className="skills-list">
