@@ -11,7 +11,7 @@ tech:
   - Redux
 
 company: 'Personal'
-showInProjects: false
+showInProjects: true
 ---
 
 A full stack post-sharing web app built with complete frontend to backend functionalities including state persistence, form validation, token authentications, and many others.

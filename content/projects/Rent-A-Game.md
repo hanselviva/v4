@@ -8,7 +8,7 @@ tech:
   - Redux
   - Material-UI
 company: 'Personal'
-showInProjects: false
+showInProjects: true
 ---
 
 A fully functional frontend rental store built on React with Redux state management. Also implements basic API calls. The database is pulled from FreeToGame.com which I tweaked to cater the needs of the app.

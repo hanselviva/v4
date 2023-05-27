@@ -127,7 +127,14 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Eleventy', 'Vue', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'React',
+    'Nodejs & Express',
+    'Nextjs',
+    'Wordpress',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,13 +144,13 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello, there! My name is Hansel. I grew up in a small island Southeast of the
-              Philippines. I have always been fascinated by computer and technology since I was a
-              kid but growing up in a small, technology-starved town, I didn't get the chance to
-              explore this wonderful world of 1s and 0s until I moved here in the US.
+              Hello! My name is Hansel. Im a software engineer with passion for creating robust and
+              user-friendly web applications. I have experience in building scalable and efficient
+              software solutions with strong work ethic and dedication to staying up to date with
+              the latest industry trends.
             </p>
 
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>Here are what I've been working with recently:</p>
           </div>
 
           <ul className="skills-list">

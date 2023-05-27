@@ -4,7 +4,7 @@ title: 'Wordpress Developer (Contract)'
 company: 'Elephant Brands'
 location: 'Vancouver, WA'
 range: 'Nov 2021 - Mar 2022'
-url: 'https://elephantbrands.com/'
+url: ''
 ---
 
 - Designed, developed, and maintain the company’s WordPress website and its architecture

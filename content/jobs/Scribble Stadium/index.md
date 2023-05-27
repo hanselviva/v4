@@ -3,7 +3,7 @@ date: '2021-11'
 title: 'Backend Engineer (Apprenticeship)'
 company: 'Story Squad'
 location: 'Remote'
-range: 'Nov 2021 - Present'
+range: 'Nov 2021 - Jan 2022'
 url: 'https://www.storysquad.education/'
 ---
 
