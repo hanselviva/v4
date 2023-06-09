@@ -128,12 +128,23 @@ const About = () => {
   }, []);
 
   const skills = [
-    'JavaScript (ES6+)',
+    'HTML, CSS, JavaScript',
     'TypeScript',
-    'React',
+    'React & hooks',
     'Nodejs & Express',
-    'Nextjs',
+    'Python',
+    'SQL',
     'Wordpress',
+    'ServiceNow',
+  ];
+
+  const techs = [
+    'Robust Web Apps',
+    'Intelligent Chatbots',
+    'AI Integration',
+    'Automation System',
+    'Responsive Design',
+    '508 Compliance',
   ];
 
   return (
@@ -144,16 +155,16 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Hansel. Im a software engineer with passion for creating robust and
-              user-friendly web applications. I have experience in building scalable and efficient
-              software solutions with strong work ethic and dedication to staying up to date with
-              the latest industry trends.
+              Im a software engineer with passion for creating web applications. I have experience
+              in building scalable and efficient software solutions with strong work ethic and
+              dedication to staying up to date with the latest industry trends.
             </p>
 
             <p>Here are what I've been working with recently:</p>
           </div>
-
           <ul className="skills-list">
+            {techs && techs.map((skill, i) => <li key={i}>{skill}</li>)}
+            <hr /> <hr />
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
           </ul>
         </StyledText>

@@ -72,7 +72,7 @@ const Hero = () => {
   );
   const five = (
     <a className="email-link" href="mailto:hanselviva@gmail.com" target="_blank" rel="noreferrer">
-      Come say hi!
+      Say hi!
       <span role="img" aria-label="hi">
         👋
       </span>
