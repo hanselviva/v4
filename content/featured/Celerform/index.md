@@ -3,7 +3,7 @@ date: '1'
 title: 'Celerform'
 cover: './celerform.png'
 github: ''
-external: 'https://celerform.com/features/'
+external: 'https://celerform.com/'
 tech:
   - React
   - TypeScript
