@@ -130,10 +130,10 @@ const About = () => {
   const skills = [
     'HTML, CSS, JavaScript',
     'TypeScript',
-    'React & hooks',
+    'React + Hooks',
     'Nodejs & Express',
     'Python',
-    'SQL',
+    'SQL & RDBMS',
     'Wordpress',
     'ServiceNow',
   ];
@@ -142,9 +142,9 @@ const About = () => {
     'Robust Web Apps',
     'Intelligent Chatbots',
     'AI Integration',
-    'Automation System',
     'Responsive Design',
-    '508 Compliance',
+    'Automation System',
+    'Accessibility',
   ];
 
   return (

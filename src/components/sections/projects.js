@@ -269,6 +269,10 @@ const Projects = () => {
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
         view full list
       </Link>
+      <p ref={revealTitle} style={{ fontSize: '17px', marginTop: '5px' }}>
+        Note: Due to Vercel and Heroku removing some of their free tier services, some apps may be
+        broken.
+      </p>
 
       <ul className="projects-grid">
         {prefersReducedMotion ? (

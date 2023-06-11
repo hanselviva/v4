@@ -1,6 +1,6 @@
 ---
 date: '2021-11-04'
-title: 'Wordpress Developer (Contract)'
+title: 'Wordpress Developer'
 company: 'Elephant Brands'
 location: 'Vancouver, WA'
 range: 'Nov 2021 - Mar 2022'
