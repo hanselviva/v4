@@ -209,7 +209,7 @@ const Nav = ({ isHome }) => {
   const ResumeLink = (
     <a
       className="resume-button"
-      href="https://docs.google.com/document/d/13rGlO1GqgdSlAFW5MDNWfQeMXQ-scqEIQw2hjMFB-J8/edit"
+      href="https://docs.google.com/document/d/1GtaOQmUwQHIEUdHE3MoZUMgNcWsmjvF3GE3SUljX3sk"
       target="_blank"
       rel="noopener noreferrer">
       Resume
