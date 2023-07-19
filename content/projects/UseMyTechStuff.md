@@ -7,7 +7,7 @@ tech:
   - React
   - Redux
 company: 'Lambda School'
-showInProjects: true
+showInProjects: false
 ---
 
 Built alongside a team of Lambda School Web Dev students, 'Use My Tech Stuff' is a rental ecommerce app where users create accounts to post or find tech gadgets for rent. I am responsible for the Redux side of the app.

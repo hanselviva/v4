@@ -8,7 +8,7 @@ tech:
   - Cypress Testing
   - Yup Validation
 company: 'Personal'
-showInProjects: true
+showInProjects: false
 ---
 
 My first ever solo project, complete Form Management from validation to routing, post requests, and Cypress testing. Basic styling is added only for comprehensibility.

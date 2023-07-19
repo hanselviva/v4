@@ -10,4 +10,4 @@ company: 'Personal'
 showInProjects: true
 ---
 
-I made my previous portfolio as a highly responsive website built with React.js, react-particles, Material-UI and react-parallax.
+I made my first ever portfolio as a highly responsive website built with React.js and MaterialUI.

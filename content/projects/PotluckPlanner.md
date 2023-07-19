@@ -12,4 +12,4 @@ company: 'Lambda School'
 showInProjects: true
 ---
 
-This is a WebDev Lambda School Project. I am solely responsible for building the backend - a five-table relational database built using Node, Express, SQLite3 for development and PostgreSQL for production.
+A five-table relational database built using Node, Express, and PostgreSQL - complete API from authentication to role validation. Includes migration files and seed data.

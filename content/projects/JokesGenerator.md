@@ -7,7 +7,7 @@ tech:
   - React
   - Redux-thunk
 company: 'Personal'
-showInProjects: true
+showInProjects: false
 ---
 
 Simple App using React that utilizes actions and reducers and handles async using redux-thunk.

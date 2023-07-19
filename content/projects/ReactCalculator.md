@@ -5,9 +5,10 @@ github: 'https://github.com/hanselviva/react-calculator'
 external: 'https://reducer-calculator.netlify.app/'
 tech:
   - React
+  - Redux
   - Redux-thunk
 company: 'Personal'
 showInProjects: true
 ---
 
-Simple App using React that utilizes actions and reducers and handles async using redux-thunk.
+Simple App using React that utilizes actions and reducers using redux and redux-thunk.
