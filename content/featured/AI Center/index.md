@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'AI Center (DOL-OCIO)'
 cover: './ai-center.png'
 github: ''
